@@ -123,7 +123,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `name`, `email`, `image`, `password`, `role_id`, `is_active`, `date_created`) VALUES
-(5, 'admin', 'admin1@gmail.com', 'default.png', '$2y$10$huGXKoe5hFU65qdk0ifE7O.1vV.EGTU.EEYK64PGc9oG9ahAJaqZG', 1, 1, 1579489714);
+(5, 'admin', 'admin@gmail.com', 'default.png', '$2y$10$huGXKoe5hFU65qdk0ifE7O.1vV.EGTU.EEYK64PGc9oG9ahAJaqZG', 1, 1, 1579489714);
 
 -- --------------------------------------------------------
 
