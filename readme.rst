@@ -7,7 +7,7 @@ Fitur-fitur
 
 -Upload files
 
--Menu admin untuk mengelola data-data user
+-Menu admin untuk mengelola data-data user (email: admin@gmail.com, password: 123)
 
 ###################
 Vendor
