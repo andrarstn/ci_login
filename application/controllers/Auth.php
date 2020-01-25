@@ -155,7 +155,7 @@ class Auth extends CI_Controller
                     $this->db->update('user');
                     $this->db->delete('user_token', ['email' => $email]);
                     if (!is_dir('./assets/users_files/' . $user['id'])) {
-                        mkdir('./assets/users_files' . $user['id']);
+                        mkdir('./assets/users_files/' . $user['id']);
                     }
                     $this->session->set_flashdata('message', '<div class="alert alert-success" role="alert">
                             Account activation success
