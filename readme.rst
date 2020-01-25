@@ -1,17 +1,25 @@
 ###################
 Fitur-fitur
 ###################
-1)Registrasi dengan aktivasi melalui token yang dikirim melalui email
-2)CRUD mahasiswa
-3)Upload files
-4)Menu admin untuk mengelola data-data user
+-Registrasi dengan aktivasi melalui token yang dikirim melalui email
+
+-CRUD mahasiswa
+
+-Upload files
+
+-Menu admin untuk mengelola data-data user
 
 ###################
 Vendor
 ###################
-1)Codeigniter 3
-2)SB admin 2 (bootstrap 4)
-3)Sweetalert 2
+-Codeigniter 3
+
+-SB admin 2 (bootstrap 4)
+
+-Font awesome
+
+-Sweetalert 2
+
 
 ###################
 What is CodeIgniter
